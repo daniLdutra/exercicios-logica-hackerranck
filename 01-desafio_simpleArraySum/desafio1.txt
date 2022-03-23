@@ -1,0 +1,39 @@
+Dada uma matriz de inteiros, encontre a soma de seus elementos.
+
+Por exemplo, se a matriz ar=[1,2,3], 1+2+3 = 6, então volte 6.
+
+Descrição da função
+
+Complete a função simpleArraySum no editor abaixo. Ele deve retornar a soma dos elementos do array como um inteiro.
+
+simpleArraySum tem os seguintes parâmetros:
+
+ar : uma matriz de inteiros
+Formato de entrada
+
+A primeira linha contém um número inteiro,, denotando o tamanho da matriz.
+A segunda linha contém inteiros separados por espaço que representam os elementos do array.
+
+Restrições
+
+0 < n, ar[i] <= 1000
+
+
+Formato de saída
+
+Imprima a soma dos elementos do array como um único inteiro.
+
+Entrada de amostra
+
+6
+1 2 3 4 10 11
+
+Saída de Amostra
+
+31
+
+Explicação
+
+Imprimimos a soma dos elementos do array:.
+
+1+2+3+4+10+11=31.
